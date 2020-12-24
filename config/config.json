@@ -1,0 +1,8 @@
+{
+  "development": {
+    "PORT": 5000,
+    "MONGODB_URI": "mongodb+srv://ats:ats@cluster0.j2v8k.mongodb.net/ats?retryWrites=true&w=majority",
+    "JWT_SECRET": "SECRET#123",
+    "JWT_EXP": "24h"
+  }
+}
